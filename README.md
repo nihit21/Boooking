@@ -1,7 +1,7 @@
 # Boooking
 # Hotel Booking Data Analysis Project
 
-!https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWfri-JqFqmFQBSpw5G3r3u9Ztt3JyYR3xRkRgYdB&s
+!https://cache.afluencer.com/wp-content/uploads/booking-com-design-exercise-blue-banner.jpeg
 
 Welcome to the Hotel Booking Data Analysis project! In this project, we explore and analyze a dataset containing hotel booking information to derive insights and patterns that can be useful for understanding booking trends, customer behavior, and other factors affecting the hospitality industry.
 
