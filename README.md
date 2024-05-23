@@ -11,7 +11,7 @@ This project focuses on analyzing a dataset obtained from hotel booking records,
 
 ## Dataset Overview
 
-The dataset used in this project consists of [insert number] rows of data, representing hotel bookings. Before analysis, the dataset underwent a data cleaning process to handle missing values (NULLs) and ensure data quality.
+The dataset used in this project consists of 9989 rows of data, representing hotel bookings. Before analysis, the dataset underwent a data cleaning process to handle missing values (NULLs) and ensure data quality.
 
 ## Analysis Questions
 
